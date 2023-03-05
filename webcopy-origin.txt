@@ -1,0 +1,120 @@
+Uri: https://cdn.discordapp.com/attachments/1081244608589201410/1081534550607396864/game_setup.zip
+File Name: C:\Downloaded Web Sites\crabgame.net\attachments\1081244608589201410\1081534550607396864\game_setup.zip
+Content Type: application/zip
+
+Uri: https://crabgame.net/game/
+File Name: C:\Downloaded Web Sites\crabgame.net\game\index.htm
+Content Type: text/html
+
+Uri: https://crabgame.net/game/css/fonts/bangers-regular.html
+File Name: C:\Downloaded Web Sites\crabgame.net\game\css\fonts\bangers-regular.html
+Content Type: text/html
+
+Uri: https://crabgame.net/game/css/fonts/myriadpro-light.html
+File Name: C:\Downloaded Web Sites\crabgame.net\game\css\fonts\myriadpro-light.html
+Content Type: text/html
+
+Uri: https://crabgame.net/game/css/fonts/myriadpro-regular.html
+File Name: C:\Downloaded Web Sites\crabgame.net\game\css\fonts\myriadpro-regular.html
+Content Type: text/html
+
+Uri: https://crabgame.net/game/css/splide-core.min.css
+File Name: C:\Downloaded Web Sites\crabgame.net\game\css\splide-core.min.css
+Content Type: text/css
+
+Uri: https://crabgame.net/game/css/style.css
+File Name: C:\Downloaded Web Sites\crabgame.net\game\css\style.css
+Content Type: text/css
+
+Uri: https://crabgame.net/game/favicon.ico
+File Name: C:\Downloaded Web Sites\crabgame.net\game\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://crabgame.net/game/images/home-background.jpg
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\home-background.jpg
+Content Type: image/jpeg
+
+Uri: https://crabgame.net/game/images/parallax/fuel-cells.png
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\parallax\fuel-cells.png
+Content Type: image/png
+
+Uri: https://crabgame.net/game/images/parallax/green-guy.png
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\parallax\green-guy.png
+Content Type: image/png
+
+Uri: https://crabgame.net/game/images/parallax/octopus.png
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\parallax\octopus.png
+Content Type: image/png
+
+Uri: https://crabgame.net/game/images/parallax/red-guy.png
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\parallax\red-guy.png
+Content Type: image/png
+
+Uri: https://crabgame.net/game/images/parallax/spaceship.png
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\parallax\spaceship.png
+Content Type: image/png
+
+Uri: https://crabgame.net/game/images/screenshots-background.png
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots-background.png
+Content Type: image/png
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-1.jpg
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-1.jpg
+Content Type: image/jpeg
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-10.html
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-10.html
+Content Type: text/html
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-2.jpg
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-2.jpg
+Content Type: image/jpeg
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-3.jpg
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-3.jpg
+Content Type: image/jpeg
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-4.jpg
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-4.jpg
+Content Type: image/jpeg
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-5.jpg
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-5.jpg
+Content Type: image/jpeg
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-6.jpg
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-6.jpg
+Content Type: image/jpeg
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-7.html
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-7.html
+Content Type: text/html
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-8.html
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-8.html
+Content Type: text/html
+
+Uri: https://crabgame.net/game/images/screenshots/fueled-up-screenshot-9.html
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\screenshots\fueled-up-screenshot-9.html
+Content Type: text/html
+
+Uri: https://crabgame.net/game/images/trailer-background.png
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\trailer-background.png
+Content Type: image/png
+
+Uri: https://crabgame.net/game/images/wishlist-button.png
+File Name: C:\Downloaded Web Sites\crabgame.net\game\images\wishlist-button.png
+Content Type: image/png
+
+Uri: https://crabgame.net/game/scripts/parallax.min.js
+File Name: C:\Downloaded Web Sites\crabgame.net\game\scripts\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://crabgame.net/game/scripts/splide.min.js
+File Name: C:\Downloaded Web Sites\crabgame.net\game\scripts\splide.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-223921009-3
+File Name: C:\Downloaded Web Sites\crabgame.net\gtag\js
+Content Type: application/javascript
+
